@@ -21,14 +21,14 @@ font-size:80px;
 
 h1{
 font-size:70px;
-margin-left:20px;
+margin-left:0px;
 }
 
 
 #navbar{
 padding-top:10px;
 height:55px;
-width:360px;
+width:320px;
 background-color: rgb(250, 249, 246);
 display:flex;
 justify-content: space-around;
