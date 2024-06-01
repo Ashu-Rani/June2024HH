@@ -1,0 +1,40 @@
+#navbar{
+height:50px;
+background-color: rgb(250, 249, 246);
+display:flex;
+justify-content: space-around;
+font-size:40px;
+
+}
+
+h1{
+margin-left:350px;
+margin-top:230px;
+color: rgb(250, 249, 246);
+font-size:80px;
+}
+
+
+@media screen and (max-width:700px)
+
+{
+
+h1{
+font-size:80px;
+margin-left: 180px;
+
+}
+
+
+#navbar{
+height:100px;
+width:700px;
+background-color: rgb(250, 249, 246);
+display:flex;
+justify-content: space-around;
+font-size:35px;
+}
+
+
+}
+
